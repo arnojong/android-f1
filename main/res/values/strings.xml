@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">F1</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_Name">Show name</string>
+    <string name="pref_nationality">Show nationality</string>
+    <string name="pref_code">Show driver code</string>
+    <string name="pref_permanentNumber">Show driver number</string>
+</resources>
